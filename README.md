@@ -9,7 +9,7 @@ In this project:
 - The detection pipeline covered filtering, segmentation, clustering, and bounding boxes.
 
 - Segmentation was done by the 3D RANSAC algorithm.
-- 
+
 - Clustering based on Euclidean clustering algorithm along with the KD-Tree.
 ## Installation
 
