@@ -26,15 +26,12 @@ In this project:
 	```bash
 	$> ...\CKD_project_file\CKD_project>python train_model.py
 	```
-	```
-5. install PCL 
+6. run python main.py 
 	```bash
-	$> brew install pcl
+	$> ...\CKD_project_file\CKD_project>python main.py
 	```
-	```
-5. install PCL 
+7. open http://localhost:8080/
 	```bash
-	$> brew install pcl
 	```
 
 #### Prebuilt Binaries via Universal Installer
