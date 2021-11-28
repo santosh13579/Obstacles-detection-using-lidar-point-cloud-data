@@ -12,21 +12,11 @@ In this project:
 ## Installation Instruction
 
 ### Window 
-
-http://www.pointclouds.org/downloads/windows.html
-
-### MAC
-
-#### Install via Homebrew
-1. install [homebrew](https://brew.sh/)
-2. update homebrew 
-	```bash
-	$> brew update
-	```
-3. add  homebrew science [tap](https://docs.brew.sh/Taps) 
-	```bash
-	$> brew tap brewsci/science
-	```
+1. conda create -n test python=3.6.7 pip
+2. conda activate test
+3. pip3 install -r requirements
+	```scikit-learn==0.23.0
+	flask==1.0.2....
 4. view pcl install options
 	```bash
 	$> brew options pcl
