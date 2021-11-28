@@ -61,11 +61,8 @@ In this project:
 │
 ├── train_model.py
     
-    
-
-> Use short lowercase names at least for the top-level files and folders except
-> `LICENSE`, `README.md`
-
+ 
+## Reference
 [PCL Source Github](https://github.com/PointCloudLibrary/pcl)
 
 [PCL Mac Compilation Docs](http://www.pointclouds.org/documentation/tutorials/compiling_pcl_macosx.php)
