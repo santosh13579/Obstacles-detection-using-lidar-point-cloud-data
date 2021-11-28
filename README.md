@@ -22,7 +22,7 @@ In this project:
 	```bash
 	$> cd. ...\CKD_project_file\CKD_project
 	```
-5. train the model  
+5. train the model (train/test results will be saved in respective folder) 
 	```bash
 	$> ...\CKD_project_file\CKD_project>python train_model.py
 	```
