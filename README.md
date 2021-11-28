@@ -1,16 +1,14 @@
 
 
-**Lidar** sensing gives us high resolution data by sending out thousands of laser signals. These lasers bounce off objects, returning to the sensor where we can then determine how far away objects are by timing how long it takes for the signal to return. Also we can tell a little bit about the object that was hit by measuring the intesity of the returned signal. Each laser ray is in the infrared spectrum, and is sent out at many different angles, usually in a 360 degree range.
+**Chronic-Kidney-Diseases-Prediction:* implements ML algorithm- Random Forest for classification. 
 
 In this project:
 
-- Detection framework  of obstacles (car and trucks) on a narrow street, by streaming of actual pcd data is build.
+- Identify risk factors for CKD 
 
-- The detection pipeline covered filtering, segmentation, clustering, and bounding boxes.
+- Predict potential CKD subtypes
 
-- Segmentation was done by the 3D RANSAC algorithm.
 
-- Clustering based on Euclidean clustering algorithm along with the KD-Tree.
 ## Installation
 
 ### Ubuntu 
