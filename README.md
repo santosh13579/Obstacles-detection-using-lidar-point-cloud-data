@@ -26,7 +26,7 @@ $> make
 $> ./environment
 ```
 
-### Windows 
+### Window 
 
 http://www.pointclouds.org/downloads/windows.html
 
