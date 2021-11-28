@@ -36,8 +36,6 @@ In this project:
 	
  ## Folder Structure Conventions
 
-> Folder structure options and naming conventions for software projects
-
 #### A top-level directory layout
 
 ```
