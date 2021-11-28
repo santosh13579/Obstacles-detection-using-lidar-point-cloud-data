@@ -42,24 +42,24 @@ In this project:
 
 ```
 ├── input
-│   ├── data
-│   └── processed_data
-├── model
+│   ├── data                      # raw data
+│   └── processed_data            # processed and semiprocessed data for feaures extraction
+├── model                         # contain files related trained/ tested model in .pkl and .csv form
 │
-├── templates
+├── templates                     # flask/ HTLM templetes for UI
 │   ├── form.html
 │   │── main.html
 │   │── result.html
 │
-├── utility_func
+├── utility_func                 # functions for data preprocessing, training and testing 
 │   ├── preprocessing.py
 │   └── utility.py
 │
-├──CKD_train_model.ipynb
+├──CKD_train_model.ipynb         # premilinary analysis and data pre preprocessing in jupyter notebook
 │
-├── main.py
+├── main.py                      # main code to run the saved trained model and UI 
 │
-├── train_model.py
+├── train_model.py               # trained the model and save it for main code
     
  
 ## Reference
