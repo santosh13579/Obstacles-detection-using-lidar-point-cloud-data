@@ -38,7 +38,7 @@ In this project:
 
 > Folder structure options and naming conventions for software projects
 
-#### A typical top-level directory layout
+#### A top-level directory layout
 
     .
     ├── build                   # Compiled files (alternatively `dist`)
@@ -48,6 +48,8 @@ In this project:
     ├── tools                   # Tools and utilities
     ├── LICENSE
     └── README.md
+    
+    
 
 > Use short lowercase names at least for the top-level files and folders except
 > `LICENSE`, `README.md`
