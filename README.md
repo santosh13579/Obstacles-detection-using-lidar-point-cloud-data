@@ -34,7 +34,7 @@ In this project:
 8. enter the feaures input on web API and press 'predict' button 
 
 	
-Folder Structure Conventions
+ ## Folder Structure Conventions
 ============================
 
 > Folder structure options and naming conventions for software projects
