@@ -30,9 +30,10 @@ In this project:
 	```bash
 	$> ...\CKD_project_file\CKD_project>python main.py
 	```
-7. open http://localhost:8080/
-	```bash
-	```
+7. open  http://localhost:8080/
+8. enter the feaures input on web API and press 'predict' button 
+
+	
 
 #### Prebuilt Binaries via Universal Installer
 http://www.pointclouds.org/downloads/macosx.html  
