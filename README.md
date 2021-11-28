@@ -40,14 +40,26 @@ In this project:
 
 #### A top-level directory layout
 
-    .
-    ├── input                   # Compiled files (alternatively `dist`)
-    ├── model                    # Documentation files (alternatively `doc`)
-    ├── templets                     # Source files (alternatively `lib` or `app`)
-    ├── utility_func                    # Automated tests (alternatively `spec` or `tests`)
-    ├── CKD_train_model                  # Tools and utilities
-    ├── main
-    └── train_model
+
+├── input
+│   ├── data
+│   └── processed_data
+├── model
+│
+├── templates
+│   ├── form.html
+│   │── main.html
+│   │── result.html
+│
+├── utility_func
+│   ├── preprocessing.py
+│   └── utility.py
+│
+├──CKD_train_model.ipynb
+│
+├── main.py
+│
+├── train_model.py
     
     
 
