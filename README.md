@@ -1,6 +1,6 @@
 
 
-**Chronic-Kidney-Diseases-Prediction:* implements ML algorithm- Random Forest for classification. 
+**Chronic-Kidney-Diseases-Prediction* implements ML algorithm- Random Forest for classification. 
 
 In this project:
 
