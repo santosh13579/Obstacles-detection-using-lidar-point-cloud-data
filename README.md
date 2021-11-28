@@ -35,11 +35,10 @@ In this project:
 
 	
  ## Folder Structure Conventions
-============================
 
 > Folder structure options and naming conventions for software projects
 
-## A typical top-level directory layout
+#### A typical top-level directory layout
 
     .
     ├── build                   # Compiled files (alternatively `dist`)
