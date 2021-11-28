@@ -63,6 +63,5 @@ In this project:
     
  
 ## Reference
-[PCL Source Github](https://github.com/PointCloudLibrary/pcl)
+-I used some format for html API from https://github.com/venkata-sreeram/Chronic-Kidney-Disease-Prediction
 
-[PCL Mac Compilation Docs](http://www.pointclouds.org/documentation/tutorials/compiling_pcl_macosx.php)
