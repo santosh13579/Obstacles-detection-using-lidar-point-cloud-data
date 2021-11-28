@@ -20,7 +20,17 @@ In this project:
 
 4. go the project main folder (CKD_project) directory 
 	```bash
-	$> cd. .../ CKD_project
+	$> cd. ...\CKD_project_file\CKD_project
+	```
+5. train the model  
+	```bash
+	$> ...\CKD_project_file\CKD_project>python train_model.py
+	```
+	```
+5. install PCL 
+	```bash
+	$> brew install pcl
+	```
 	```
 5. install PCL 
 	```bash
