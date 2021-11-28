@@ -14,9 +14,10 @@ In this project:
 ### Window 
 1. conda create -n test python=3.6.7 pip
 2. conda activate test
-3. pip3 install -r requirements
+3. pip3 install -r requirements.txt (All reqiured packagees are listed on requirements text file)
 	```scikit-learn==0.23.0
-	flask==1.0.2, scikit-learn==0.23.0,...
+	flask==1.0.2, scikit-learn==0.23.0,numpy==1.18.1, pandas==1.1.4, matplotlib==3.0.2...
+
 4. view pcl install options
 	```bash
 	$> brew options pcl
