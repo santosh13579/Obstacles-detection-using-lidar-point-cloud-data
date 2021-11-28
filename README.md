@@ -40,7 +40,7 @@ In this project:
 
 #### A top-level directory layout
 
-
+```
 ├── input
 │   ├── data
 │   └── processed_data
