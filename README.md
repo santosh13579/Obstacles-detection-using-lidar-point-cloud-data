@@ -34,12 +34,24 @@ In this project:
 8. enter the feaures input on web API and press 'predict' button 
 
 	
+Folder Structure Conventions
+============================
 
-#### Prebuilt Binaries via Universal Installer
-http://www.pointclouds.org/downloads/macosx.html  
-NOTE: very old version 
+> Folder structure options and naming conventions for software projects
 
-#### Build from Source
+### A typical top-level directory layout
+
+    .
+    ├── build                   # Compiled files (alternatively `dist`)
+    ├── docs                    # Documentation files (alternatively `doc`)
+    ├── src                     # Source files (alternatively `lib` or `app`)
+    ├── test                    # Automated tests (alternatively `spec` or `tests`)
+    ├── tools                   # Tools and utilities
+    ├── LICENSE
+    └── README.md
+
+> Use short lowercase names at least for the top-level files and folders except
+> `LICENSE`, `README.md`
 
 [PCL Source Github](https://github.com/PointCloudLibrary/pcl)
 
