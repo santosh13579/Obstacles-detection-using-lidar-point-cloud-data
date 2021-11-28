@@ -15,7 +15,8 @@ In this project:
 1. conda create -n test python=3.6.7 pip
 2. conda activate test
 3. pip3 install -r requirements
-	```scikit-learn==0.23.0, flask==1.0.2....
+	```scikit-learn==0.23.0
+	flask==1.0.2, scikit-learn==0.23.0,...
 4. view pcl install options
 	```bash
 	$> brew options pcl
