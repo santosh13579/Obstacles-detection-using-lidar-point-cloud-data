@@ -31,7 +31,7 @@ In this project:
 	$> ...\CKD_project_file\CKD_project>python main.py
 	```
 7. open  http://localhost:8080/
-8. enter the feaures input on web API and press 'predict' button 
+8. enter the features input on web API and press 'predict' button 
 
 	
  ## Folder Structure Conventions
