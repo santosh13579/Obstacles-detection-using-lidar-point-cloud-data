@@ -41,13 +41,13 @@ In this project:
 #### A top-level directory layout
 
     .
-    ├── build                   # Compiled files (alternatively `dist`)
-    ├── docs                    # Documentation files (alternatively `doc`)
-    ├── src                     # Source files (alternatively `lib` or `app`)
-    ├── test                    # Automated tests (alternatively `spec` or `tests`)
-    ├── tools                   # Tools and utilities
-    ├── LICENSE
-    └── README.md
+    ├── input                   # Compiled files (alternatively `dist`)
+    ├── model                    # Documentation files (alternatively `doc`)
+    ├── templets                     # Source files (alternatively `lib` or `app`)
+    ├── utility_func                    # Automated tests (alternatively `spec` or `tests`)
+    ├── CKD_train_model                  # Tools and utilities
+    ├── main
+    └── train_model
     
     
 
